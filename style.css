@@ -1,0 +1,27 @@
+body{
+    width:95%;
+    max-width:2000px;
+    margin:auto;
+}
+
+img{
+  max-width:250px;
+  max-height:auto;
+}
+
+ul{
+  padding-inline-start: 0px;
+  list-style: none;
+}
+
+li span{
+  margin-left:20px;
+}
+
+.experience-entry ul{
+  margin-bottom:40px;
+}
+
+.experience-entry li{
+  margin-bottom:5px;
+}
